@@ -1,0 +1,6 @@
+print ("##############################\n")
+print ("#                            #\n")
+print ("#  Adinerado Falah Nugraha   #\n")
+print ("#       2210817310003        #\n")
+print ("#                            #\n")
+print ("##############################")
